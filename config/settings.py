@@ -1,28 +1,33 @@
 import os
-import warnings
 from pathlib import Path
 from typing import Any
 
 import dj_database_url
 import dotenv
+import matplotlib
 import structlog
 
+matplotlib.use("agg")
+
 dotenv.load_dotenv()
+
+
+TRUE_VALUES = ["True", "true", "1", "t"]
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ["SECRET_KEY"]
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 # SECURITY WARNING: don't run with debug turned on in production!
-TRUE_VALUES = ["True", "true", "1", "t"]
 DEBUG = os.getenv("DEBUG") in TRUE_VALUES
 DJANGO_LOG_FORMATTER = os.getenv("DJANGO_LOG_FORMATTER", "plain")
-DJANGO_LOG_SERVICE = os.getenv("DJANGO_LOG_SERVICE_NAME", "unknown")
+DJANGO_LOG_SERVICE = os.getenv("DJANGO_LOG_SERVICE_NAME", "barter")
 DISABLE_EXISTING_LOGGERS = not DEBUG
 ALLOWED_HOSTS = ["*"]
 
 INSTALLED_APPS = [
     "whitenoise.runserver_nostatic",
+    "adminactions",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -31,10 +36,13 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "corsheaders",
     "rest_framework",
+    "crispy_forms",
+    "crispy_bootstrap4",
     "drf_yasg",
     "django_filters",
-    "import_export",
+    "explorer",
     "accounts",
+    "api",
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
@@ -152,7 +160,7 @@ LOGGING = {
         },
         "plain": {
             "()": structlog.stdlib.ProcessorFormatter,
-            "processor": structlog.dev.ConsoleRenderer(colors=False),
+            "processor": structlog.dev.ConsoleRenderer(colors=True),
         },
         "key_value": {
             "()": structlog.stdlib.ProcessorFormatter,
@@ -197,6 +205,7 @@ LOGGING = {
         # },
     },
 }
+
 
 def add_service(_, __, event_dict: dict) -> dict:  # type: ignore
     event_dict["service"] = DJANGO_LOG_SERVICE
@@ -257,3 +266,22 @@ CSRF_TRUSTED_ORIGINS = ["https://*.127.0.0.1"]
 # # Celery
 CELERY_BROKER_URL = REDIS_URL
 CELERY_RESULT_BACKEND = REDIS_URL
+
+
+# # Set up for django-admin-charts
+# # https://github.com/PetrDlouhy/django-admin-charts#installation
+# CACHES = {
+#     'default': {
+#         'BACKEND': 'django.core.cache.backends.memcached.PyMemcacheCache',
+#         'LOCATION': '127.0.0.1:11211',
+#     }
+# }
+
+# https://django-sql-explorer.readthedocs.io/en/latest/install.html
+EXPLORER_CONNECTIONS = {"Default": "default"}
+EXPLORER_DEFAULT_CONNECTION = "default"
+EXPLORER_CHARTS_ENABLED = True
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap4"
+
+CRISPY_TEMPLATE_PACK = "bootstrap4"

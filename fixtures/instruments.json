@@ -1,0 +1,68 @@
+[
+{
+    "model": "api.instrument",
+    "pk": 42,
+    "fields": {
+        "name": "Doge",
+        "symbol": "DOGE",
+        "coingecko_id": "",
+        "dydx_market_id": "DOGE-USD",
+        "enable_dydx_trades": true
+    }
+},
+{
+    "model": "api.instrument",
+    "pk": 5,
+    "fields": {
+        "name": "XRP",
+        "symbol": "XRP",
+        "coingecko_id": "ripple",
+        "dydx_market_id": "",
+        "enable_dydx_trades": false
+    }
+},
+{
+    "model": "api.instrument",
+    "pk": 4,
+    "fields": {
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "coingecko_id": "binancecoin",
+        "dydx_market_id": "",
+        "enable_dydx_trades": false
+    }
+},
+{
+    "model": "api.instrument",
+    "pk": 3,
+    "fields": {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "coingecko_id": "bitcoin",
+        "dydx_market_id": "",
+        "enable_dydx_trades": false
+    }
+},
+{
+    "model": "api.instrument",
+    "pk": 2,
+    "fields": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "coingecko_id": "ethereum",
+        "dydx_market_id": "ETH-USD",
+        "enable_dydx_trades": false
+    }
+},
+{
+    "model": "api.instrument",
+    "pk": 1,
+    "fields": {
+        "name": "Kapital DAO",
+        "symbol": "KAP",
+        "coingecko_id": "kapital-dao",
+        "dydx_market_id": "",
+        "enable_dydx_trades": false
+    }
+}
+]

@@ -1,0 +1,2774 @@
+[
+{
+    "model": "api.dydxcandle",
+    "pk": 3978,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-11T00:00:00Z",
+        "period_end": "2023-03-11T23:59:44.477Z",
+        "resolution": "1DAY",
+        "open": "0.06590000",
+        "high": "0.06880000",
+        "low": "0.06360000",
+        "close": "0.06660000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3977,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-12T00:00:00Z",
+        "period_end": "2023-03-12T23:59:13.084Z",
+        "resolution": "1DAY",
+        "open": "0.06650000",
+        "high": "0.07140000",
+        "low": "0.06580000",
+        "close": "0.07100000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3976,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-13T00:00:00Z",
+        "period_end": "2023-03-13T23:59:49.491Z",
+        "resolution": "1DAY",
+        "open": "0.07100000",
+        "high": "0.07380000",
+        "low": "0.06840000",
+        "close": "0.07300000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3975,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-14T00:00:00Z",
+        "period_end": "2023-03-14T23:59:33.010Z",
+        "resolution": "1DAY",
+        "open": "0.07310000",
+        "high": "0.07790000",
+        "low": "0.07150000",
+        "close": "0.07490000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3974,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-15T00:00:00Z",
+        "period_end": "2023-03-15T23:59:43.263Z",
+        "resolution": "1DAY",
+        "open": "0.07490000",
+        "high": "0.07630000",
+        "low": "0.06760000",
+        "close": "0.06990000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3973,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-16T00:00:00Z",
+        "period_end": "2023-03-16T23:59:48.556Z",
+        "resolution": "1DAY",
+        "open": "0.06990000",
+        "high": "0.07420000",
+        "low": "0.06900000",
+        "close": "0.07270000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3972,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-17T00:00:00Z",
+        "period_end": "2023-03-17T23:59:49.599Z",
+        "resolution": "1DAY",
+        "open": "0.07270000",
+        "high": "0.07740000",
+        "low": "0.07160000",
+        "close": "0.07660000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3971,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-18T00:00:00Z",
+        "period_end": "2023-03-18T23:59:50.064Z",
+        "resolution": "1DAY",
+        "open": "0.07660000",
+        "high": "0.07910000",
+        "low": "0.07260000",
+        "close": "0.07310000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3970,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-19T00:00:00Z",
+        "period_end": "2023-03-19T23:59:56.880Z",
+        "resolution": "1DAY",
+        "open": "0.07320000",
+        "high": "0.07670000",
+        "low": "0.07310000",
+        "close": "0.07470000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3969,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-20T00:00:00Z",
+        "period_end": "2023-03-20T23:59:57.632Z",
+        "resolution": "1DAY",
+        "open": "0.07480000",
+        "high": "0.07570000",
+        "low": "0.07070000",
+        "close": "0.07160000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3968,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-21T00:00:00Z",
+        "period_end": "2023-03-21T23:59:58.968Z",
+        "resolution": "1DAY",
+        "open": "0.07150000",
+        "high": "0.07810000",
+        "low": "0.07050000",
+        "close": "0.07680000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3967,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-22T00:00:00Z",
+        "period_end": "2023-03-22T23:59:12.840Z",
+        "resolution": "1DAY",
+        "open": "0.07680000",
+        "high": "0.07830000",
+        "low": "0.07160000",
+        "close": "0.07400000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3966,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-23T00:00:00Z",
+        "period_end": "2023-03-23T23:58:59.847Z",
+        "resolution": "1DAY",
+        "open": "0.07410000",
+        "high": "0.07940000",
+        "low": "0.07310000",
+        "close": "0.07750000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3965,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-24T00:00:00Z",
+        "period_end": "2023-03-24T23:56:49.674Z",
+        "resolution": "1DAY",
+        "open": "0.07750000",
+        "high": "0.07760000",
+        "low": "0.07290000",
+        "close": "0.07460000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3964,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-25T00:00:00Z",
+        "period_end": "2023-03-25T23:59:58.906Z",
+        "resolution": "1DAY",
+        "open": "0.07460000",
+        "high": "0.07600000",
+        "low": "0.07250000",
+        "close": "0.07410000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3963,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-26T00:00:00Z",
+        "period_end": "2023-03-26T23:59:30.246Z",
+        "resolution": "1DAY",
+        "open": "0.07400000",
+        "high": "0.07550000",
+        "low": "0.07340000",
+        "close": "0.07440000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3962,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-27T00:00:00Z",
+        "period_end": "2023-03-27T23:59:57.561Z",
+        "resolution": "1DAY",
+        "open": "0.07450000",
+        "high": "0.07620000",
+        "low": "0.07140000",
+        "close": "0.07290000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3961,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-28T00:00:00Z",
+        "period_end": "2023-03-28T23:59:55.458Z",
+        "resolution": "1DAY",
+        "open": "0.07300000",
+        "high": "0.07400000",
+        "low": "0.07170000",
+        "close": "0.07380000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3960,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-29T00:00:00Z",
+        "period_end": "2023-03-29T23:59:57.021Z",
+        "resolution": "1DAY",
+        "open": "0.07380000",
+        "high": "0.07690000",
+        "low": "0.07350000",
+        "close": "0.07560000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3959,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-30T00:00:00Z",
+        "period_end": "2023-03-30T23:59:07.600Z",
+        "resolution": "1DAY",
+        "open": "0.07560000",
+        "high": "0.07680000",
+        "low": "0.07330000",
+        "close": "0.07420000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3958,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-03-31T00:00:00Z",
+        "period_end": "2023-03-31T23:59:48.376Z",
+        "resolution": "1DAY",
+        "open": "0.07430000",
+        "high": "0.07800000",
+        "low": "0.07350000",
+        "close": "0.07700000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3957,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-01T00:00:00Z",
+        "period_end": "2023-04-01T23:59:12.294Z",
+        "resolution": "1DAY",
+        "open": "0.07700000",
+        "high": "0.08340000",
+        "low": "0.07590000",
+        "close": "0.08190000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3956,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-02T00:00:00Z",
+        "period_end": "2023-04-02T23:59:58.988Z",
+        "resolution": "1DAY",
+        "open": "0.08190000",
+        "high": "0.08560000",
+        "low": "0.07720000",
+        "close": "0.07900000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3955,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-03T00:00:00Z",
+        "period_end": "2023-04-03T23:59:59.389Z",
+        "resolution": "1DAY",
+        "open": "0.07900000",
+        "high": "0.10570000",
+        "low": "0.07600000",
+        "close": "0.09600000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3954,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-04T00:00:00Z",
+        "period_end": "2023-04-04T23:59:52.360Z",
+        "resolution": "1DAY",
+        "open": "0.09590000",
+        "high": "0.10360000",
+        "low": "0.09210000",
+        "close": "0.09530000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3953,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-05T00:00:00Z",
+        "period_end": "2023-04-05T23:59:46.458Z",
+        "resolution": "1DAY",
+        "open": "0.09520000",
+        "high": "0.09920000",
+        "low": "0.09050000",
+        "close": "0.09270000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3952,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-06T00:00:00Z",
+        "period_end": "2023-04-06T23:59:37.999Z",
+        "resolution": "1DAY",
+        "open": "0.09270000",
+        "high": "0.09280000",
+        "low": "0.08290000",
+        "close": "0.08540000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3951,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-07T00:00:00Z",
+        "period_end": "2023-04-07T23:59:01.809Z",
+        "resolution": "1DAY",
+        "open": "0.08540000",
+        "high": "0.08620000",
+        "low": "0.08110000",
+        "close": "0.08230000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3950,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-08T00:00:00Z",
+        "period_end": "2023-04-08T23:58:45.527Z",
+        "resolution": "1DAY",
+        "open": "0.08230000",
+        "high": "0.08380000",
+        "low": "0.08030000",
+        "close": "0.08140000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3949,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-09T00:00:00Z",
+        "period_end": "2023-04-09T23:59:28.826Z",
+        "resolution": "1DAY",
+        "open": "0.08140000",
+        "high": "0.08400000",
+        "low": "0.08110000",
+        "close": "0.08320000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3948,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-10T00:00:00Z",
+        "period_end": "2023-04-10T23:56:40.544Z",
+        "resolution": "1DAY",
+        "open": "0.08320000",
+        "high": "0.08540000",
+        "low": "0.08230000",
+        "close": "0.08480000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3947,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-11T00:00:00Z",
+        "period_end": "2023-04-11T23:59:52.711Z",
+        "resolution": "1DAY",
+        "open": "0.08480000",
+        "high": "0.08590000",
+        "low": "0.08370000",
+        "close": "0.08420000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3946,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-12T00:00:00Z",
+        "period_end": "2023-04-12T23:59:52.439Z",
+        "resolution": "1DAY",
+        "open": "0.08420000",
+        "high": "0.08480000",
+        "low": "0.08050000",
+        "close": "0.08350000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3945,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-13T00:00:00Z",
+        "period_end": "2023-04-13T23:59:53.615Z",
+        "resolution": "1DAY",
+        "open": "0.08350000",
+        "high": "0.08900000",
+        "low": "0.08290000",
+        "close": "0.08740000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3944,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-14T00:00:00Z",
+        "period_end": "2023-04-14T23:55:30.528Z",
+        "resolution": "1DAY",
+        "open": "0.08730000",
+        "high": "0.09160000",
+        "low": "0.08530000",
+        "close": "0.08880000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3943,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-15T00:00:00Z",
+        "period_end": "2023-04-15T23:58:51.186Z",
+        "resolution": "1DAY",
+        "open": "0.08870000",
+        "high": "0.09060000",
+        "low": "0.08720000",
+        "close": "0.08890000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3942,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-16T00:00:00Z",
+        "period_end": "2023-04-16T23:59:13.620Z",
+        "resolution": "1DAY",
+        "open": "0.08900000",
+        "high": "0.09200000",
+        "low": "0.08770000",
+        "close": "0.09060000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3941,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-17T00:00:00Z",
+        "period_end": "2023-04-17T23:59:59.489Z",
+        "resolution": "1DAY",
+        "open": "0.09060000",
+        "high": "0.09490000",
+        "low": "0.08820000",
+        "close": "0.09140000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3940,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-18T00:00:00Z",
+        "period_end": "2023-04-18T23:59:59.681Z",
+        "resolution": "1DAY",
+        "open": "0.09140000",
+        "high": "0.09510000",
+        "low": "0.08980000",
+        "close": "0.09420000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3939,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-19T00:00:00Z",
+        "period_end": "2023-04-19T23:59:35.439Z",
+        "resolution": "1DAY",
+        "open": "0.09420000",
+        "high": "0.09420000",
+        "low": "0.08420000",
+        "close": "0.08800000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3938,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-20T00:00:00Z",
+        "period_end": "2023-04-20T23:59:59.391Z",
+        "resolution": "1DAY",
+        "open": "0.08790000",
+        "high": "0.09350000",
+        "low": "0.08250000",
+        "close": "0.08390000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3937,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-21T00:00:00Z",
+        "period_end": "2023-04-21T23:59:31.996Z",
+        "resolution": "1DAY",
+        "open": "0.08390000",
+        "high": "0.08480000",
+        "low": "0.07620000",
+        "close": "0.07840000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3936,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-22T00:00:00Z",
+        "period_end": "2023-04-22T23:57:13.171Z",
+        "resolution": "1DAY",
+        "open": "0.07850000",
+        "high": "0.08100000",
+        "low": "0.07820000",
+        "close": "0.08030000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3935,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-23T00:00:00Z",
+        "period_end": "2023-04-23T23:57:14.550Z",
+        "resolution": "1DAY",
+        "open": "0.08020000",
+        "high": "0.08090000",
+        "low": "0.07650000",
+        "close": "0.07880000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3934,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-24T00:00:00Z",
+        "period_end": "2023-04-24T23:58:47.252Z",
+        "resolution": "1DAY",
+        "open": "0.07880000",
+        "high": "0.08000000",
+        "low": "0.07720000",
+        "close": "0.07880000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3933,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-25T00:00:00Z",
+        "period_end": "2023-04-25T23:56:18.613Z",
+        "resolution": "1DAY",
+        "open": "0.07870000",
+        "high": "0.08000000",
+        "low": "0.07750000",
+        "close": "0.07980000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3932,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-26T00:00:00Z",
+        "period_end": "2023-04-26T23:58:26.622Z",
+        "resolution": "1DAY",
+        "open": "0.07970000",
+        "high": "0.08360000",
+        "low": "0.07470000",
+        "close": "0.07860000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3931,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-27T00:00:00Z",
+        "period_end": "2023-04-27T23:58:46.781Z",
+        "resolution": "1DAY",
+        "open": "0.07860000",
+        "high": "0.08100000",
+        "low": "0.07850000",
+        "close": "0.08010000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3930,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-28T00:00:00Z",
+        "period_end": "2023-04-28T23:58:52.119Z",
+        "resolution": "1DAY",
+        "open": "0.08020000",
+        "high": "0.08070000",
+        "low": "0.07910000",
+        "close": "0.08050000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3929,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-29T00:00:00Z",
+        "period_end": "2023-04-29T23:58:14.548Z",
+        "resolution": "1DAY",
+        "open": "0.08040000",
+        "high": "0.08210000",
+        "low": "0.08040000",
+        "close": "0.08170000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3928,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-04-30T00:00:00Z",
+        "period_end": "2023-04-30T23:59:58.391Z",
+        "resolution": "1DAY",
+        "open": "0.08160000",
+        "high": "0.08180000",
+        "low": "0.07930000",
+        "close": "0.07950000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3927,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-01T00:00:00Z",
+        "period_end": "2023-05-01T23:57:30.083Z",
+        "resolution": "1DAY",
+        "open": "0.07960000",
+        "high": "0.08000000",
+        "low": "0.07740000",
+        "close": "0.07880000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3926,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-02T00:00:00Z",
+        "period_end": "2023-05-02T23:59:59.395Z",
+        "resolution": "1DAY",
+        "open": "0.07880000",
+        "high": "0.07910000",
+        "low": "0.07760000",
+        "close": "0.07880000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3925,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-03T00:00:00Z",
+        "period_end": "2023-05-03T23:58:53.552Z",
+        "resolution": "1DAY",
+        "open": "0.07880000",
+        "high": "0.08070000",
+        "low": "0.07710000",
+        "close": "0.07960000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3924,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-04T00:00:00Z",
+        "period_end": "2023-05-04T23:56:56.305Z",
+        "resolution": "1DAY",
+        "open": "0.07970000",
+        "high": "0.07980000",
+        "low": "0.07800000",
+        "close": "0.07840000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3923,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-05T00:00:00Z",
+        "period_end": "2023-05-05T23:57:10.531Z",
+        "resolution": "1DAY",
+        "open": "0.07840000",
+        "high": "0.08160000",
+        "low": "0.07680000",
+        "close": "0.08040000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3922,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-06T00:00:00Z",
+        "period_end": "2023-05-06T23:58:56.986Z",
+        "resolution": "1DAY",
+        "open": "0.08030000",
+        "high": "0.08060000",
+        "low": "0.07590000",
+        "close": "0.07680000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3921,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-07T00:00:00Z",
+        "period_end": "2023-05-07T23:59:27.762Z",
+        "resolution": "1DAY",
+        "open": "0.07680000",
+        "high": "0.07770000",
+        "low": "0.07630000",
+        "close": "0.07660000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3920,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-08T00:00:00Z",
+        "period_end": "2023-05-08T23:59:01.103Z",
+        "resolution": "1DAY",
+        "open": "0.07660000",
+        "high": "0.07720000",
+        "low": "0.06970000",
+        "close": "0.07240000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3919,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-09T00:00:00Z",
+        "period_end": "2023-05-09T23:46:14.163Z",
+        "resolution": "1DAY",
+        "open": "0.07240000",
+        "high": "0.07340000",
+        "low": "0.07210000",
+        "close": "0.07320000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3918,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-10T00:00:00Z",
+        "period_end": "2023-05-10T23:57:21.073Z",
+        "resolution": "1DAY",
+        "open": "0.07310000",
+        "high": "0.07470000",
+        "low": "0.07040000",
+        "close": "0.07320000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3917,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-11T00:00:00Z",
+        "period_end": "2023-05-11T23:59:12.155Z",
+        "resolution": "1DAY",
+        "open": "0.07320000",
+        "high": "0.07320000",
+        "low": "0.06910000",
+        "close": "0.07200000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3916,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-12T00:00:00Z",
+        "period_end": "2023-05-12T23:59:59.681Z",
+        "resolution": "1DAY",
+        "open": "0.07200000",
+        "high": "0.07270000",
+        "low": "0.06940000",
+        "close": "0.07230000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3915,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-13T00:00:00Z",
+        "period_end": "2023-05-13T23:58:01.847Z",
+        "resolution": "1DAY",
+        "open": "0.07240000",
+        "high": "0.07240000",
+        "low": "0.07140000",
+        "close": "0.07170000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3914,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-14T00:00:00Z",
+        "period_end": "2023-05-14T23:46:07.076Z",
+        "resolution": "1DAY",
+        "open": "0.07170000",
+        "high": "0.07260000",
+        "low": "0.07110000",
+        "close": "0.07200000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3913,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-15T00:00:00Z",
+        "period_end": "2023-05-15T23:55:21.325Z",
+        "resolution": "1DAY",
+        "open": "0.07200000",
+        "high": "0.07370000",
+        "low": "0.07090000",
+        "close": "0.07200000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3912,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-16T00:00:00Z",
+        "period_end": "2023-05-16T23:56:25.735Z",
+        "resolution": "1DAY",
+        "open": "0.07200000",
+        "high": "0.07320000",
+        "low": "0.07090000",
+        "close": "0.07270000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3911,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-17T00:00:00Z",
+        "period_end": "2023-05-17T23:59:50.854Z",
+        "resolution": "1DAY",
+        "open": "0.07270000",
+        "high": "0.07540000",
+        "low": "0.07230000",
+        "close": "0.07490000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3910,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-18T00:00:00Z",
+        "period_end": "2023-05-18T23:59:13.118Z",
+        "resolution": "1DAY",
+        "open": "0.07490000",
+        "high": "0.07490000",
+        "low": "0.07170000",
+        "close": "0.07340000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3909,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-19T00:00:00Z",
+        "period_end": "2023-05-19T23:59:52.348Z",
+        "resolution": "1DAY",
+        "open": "0.07350000",
+        "high": "0.07410000",
+        "low": "0.07300000",
+        "close": "0.07350000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3908,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-20T00:00:00Z",
+        "period_end": "2023-05-20T23:57:18.237Z",
+        "resolution": "1DAY",
+        "open": "0.07350000",
+        "high": "0.07390000",
+        "low": "0.07310000",
+        "close": "0.07370000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3907,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-21T00:00:00Z",
+        "period_end": "2023-05-21T23:44:18.366Z",
+        "resolution": "1DAY",
+        "open": "0.07370000",
+        "high": "0.07400000",
+        "low": "0.07200000",
+        "close": "0.07210000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3906,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-22T00:00:00Z",
+        "period_end": "2023-05-22T23:55:20.824Z",
+        "resolution": "1DAY",
+        "open": "0.07220000",
+        "high": "0.07400000",
+        "low": "0.07080000",
+        "close": "0.07290000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3905,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-23T00:00:00Z",
+        "period_end": "2023-05-23T23:51:15.224Z",
+        "resolution": "1DAY",
+        "open": "0.07300000",
+        "high": "0.07390000",
+        "low": "0.07250000",
+        "close": "0.07290000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3904,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-24T00:00:00Z",
+        "period_end": "2023-05-24T23:57:32.050Z",
+        "resolution": "1DAY",
+        "open": "0.07290000",
+        "high": "0.07290000",
+        "low": "0.06920000",
+        "close": "0.07060000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3903,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-25T00:00:00Z",
+        "period_end": "2023-05-25T23:56:30.528Z",
+        "resolution": "1DAY",
+        "open": "0.07070000",
+        "high": "0.07110000",
+        "low": "0.06850000",
+        "close": "0.07090000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3902,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-26T00:00:00Z",
+        "period_end": "2023-05-26T23:53:02.397Z",
+        "resolution": "1DAY",
+        "open": "0.07080000",
+        "high": "0.07150000",
+        "low": "0.07040000",
+        "close": "0.07110000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3901,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-27T00:00:00Z",
+        "period_end": "2023-05-27T23:59:58.445Z",
+        "resolution": "1DAY",
+        "open": "0.07100000",
+        "high": "0.07350000",
+        "low": "0.07070000",
+        "close": "0.07260000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3900,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-28T00:00:00Z",
+        "period_end": "2023-05-28T23:59:54.431Z",
+        "resolution": "1DAY",
+        "open": "0.07260000",
+        "high": "0.07410000",
+        "low": "0.07190000",
+        "close": "0.07350000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3899,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-29T00:00:00Z",
+        "period_end": "2023-05-29T23:57:27.369Z",
+        "resolution": "1DAY",
+        "open": "0.07360000",
+        "high": "0.07400000",
+        "low": "0.07270000",
+        "close": "0.07320000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3898,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-30T00:00:00Z",
+        "period_end": "2023-05-30T23:54:33.214Z",
+        "resolution": "1DAY",
+        "open": "0.07320000",
+        "high": "0.07350000",
+        "low": "0.07210000",
+        "close": "0.07230000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3897,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-05-31T00:00:00Z",
+        "period_end": "2023-05-31T23:43:28.002Z",
+        "resolution": "1DAY",
+        "open": "0.07230000",
+        "high": "0.07260000",
+        "low": "0.07050000",
+        "close": "0.07160000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3896,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-01T00:00:00Z",
+        "period_end": "2023-06-01T23:59:58.650Z",
+        "resolution": "1DAY",
+        "open": "0.07170000",
+        "high": "0.07220000",
+        "low": "0.07070000",
+        "close": "0.07140000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3895,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-02T00:00:00Z",
+        "period_end": "2023-06-02T23:59:16.515Z",
+        "resolution": "1DAY",
+        "open": "0.07140000",
+        "high": "0.07330000",
+        "low": "0.07090000",
+        "close": "0.07260000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3894,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-03T00:00:00Z",
+        "period_end": "2023-06-03T23:58:27.386Z",
+        "resolution": "1DAY",
+        "open": "0.07260000",
+        "high": "0.07300000",
+        "low": "0.07210000",
+        "close": "0.07260000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3893,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-04T00:00:00Z",
+        "period_end": "2023-06-04T23:57:48.180Z",
+        "resolution": "1DAY",
+        "open": "0.07260000",
+        "high": "0.07330000",
+        "low": "0.07230000",
+        "close": "0.07240000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3892,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-05T00:00:00Z",
+        "period_end": "2023-06-05T23:59:54.965Z",
+        "resolution": "1DAY",
+        "open": "0.07240000",
+        "high": "0.07270000",
+        "low": "0.06310000",
+        "close": "0.06640000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3891,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-06T00:00:00Z",
+        "period_end": "2023-06-06T23:58:44.432Z",
+        "resolution": "1DAY",
+        "open": "0.06640000",
+        "high": "0.07190000",
+        "low": "0.06580000",
+        "close": "0.07030000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3890,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-07T00:00:00Z",
+        "period_end": "2023-06-07T23:59:26.089Z",
+        "resolution": "1DAY",
+        "open": "0.07030000",
+        "high": "0.07030000",
+        "low": "0.06670000",
+        "close": "0.06720000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3889,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-08T00:00:00Z",
+        "period_end": "2023-06-08T23:54:15.157Z",
+        "resolution": "1DAY",
+        "open": "0.06720000",
+        "high": "0.06850000",
+        "low": "0.06700000",
+        "close": "0.06790000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3888,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-09T00:00:00Z",
+        "period_end": "2023-06-09T23:55:38.247Z",
+        "resolution": "1DAY",
+        "open": "0.06790000",
+        "high": "0.07110000",
+        "low": "0.06730000",
+        "close": "0.06950000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3887,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-10T00:00:00Z",
+        "period_end": "2023-06-10T23:59:13.246Z",
+        "resolution": "1DAY",
+        "open": "0.06950000",
+        "high": "0.07160000",
+        "low": "0.04900000",
+        "close": "0.06170000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3886,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-11T00:00:00Z",
+        "period_end": "2023-06-11T23:58:55.877Z",
+        "resolution": "1DAY",
+        "open": "0.06170000",
+        "high": "0.06290000",
+        "low": "0.06100000",
+        "close": "0.06160000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3885,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-12T00:00:00Z",
+        "period_end": "2023-06-12T23:50:00.424Z",
+        "resolution": "1DAY",
+        "open": "0.06150000",
+        "high": "0.06170000",
+        "low": "0.05980000",
+        "close": "0.06150000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3884,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-13T00:00:00Z",
+        "period_end": "2023-06-13T23:59:55.825Z",
+        "resolution": "1DAY",
+        "open": "0.06140000",
+        "high": "0.06280000",
+        "low": "0.06040000",
+        "close": "0.06170000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3883,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-14T00:00:00Z",
+        "period_end": "2023-06-14T23:57:49.167Z",
+        "resolution": "1DAY",
+        "open": "0.06170000",
+        "high": "0.06210000",
+        "low": "0.05810000",
+        "close": "0.06040000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3882,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-15T00:00:00Z",
+        "period_end": "2023-06-15T23:58:44.440Z",
+        "resolution": "1DAY",
+        "open": "0.06030000",
+        "high": "0.06190000",
+        "low": "0.05970000",
+        "close": "0.06140000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3881,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-16T00:00:00Z",
+        "period_end": "2023-06-16T23:51:31.650Z",
+        "resolution": "1DAY",
+        "open": "0.06140000",
+        "high": "0.06280000",
+        "low": "0.06060000",
+        "close": "0.06210000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3880,
+    "fields": {
+        "instrument": 42,
+        "period_start": "2023-06-17T00:00:00Z",
+        "period_end": "2023-06-17T23:24:28.857Z",
+        "resolution": "1DAY",
+        "open": "0.06210000",
+        "high": "0.06300000",
+        "low": "0.06170000",
+        "close": "0.06220000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3879,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-11T00:00:00Z",
+        "period_end": "2023-03-11T23:59:57.385Z",
+        "resolution": "1DAY",
+        "open": "1431.00000000",
+        "high": "1492.70000000",
+        "low": "1413.20000000",
+        "close": "1486.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3878,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-12T00:00:00Z",
+        "period_end": "2023-03-12T23:59:59.930Z",
+        "resolution": "1DAY",
+        "open": "1486.10000000",
+        "high": "1620.60000000",
+        "low": "1462.70000000",
+        "close": "1592.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3877,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-13T00:00:00Z",
+        "period_end": "2023-03-13T23:59:59.425Z",
+        "resolution": "1DAY",
+        "open": "1592.00000000",
+        "high": "1717.80000000",
+        "low": "1570.20000000",
+        "close": "1680.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3876,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-14T00:00:00Z",
+        "period_end": "2023-03-14T23:59:55.521Z",
+        "resolution": "1DAY",
+        "open": "1680.80000000",
+        "high": "1795.00000000",
+        "low": "1663.80000000",
+        "close": "1706.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3875,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-15T00:00:00Z",
+        "period_end": "2023-03-15T23:59:53.737Z",
+        "resolution": "1DAY",
+        "open": "1706.20000000",
+        "high": "1723.70000000",
+        "low": "1614.40000000",
+        "close": "1656.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3874,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-16T00:00:00Z",
+        "period_end": "2023-03-16T23:59:59.619Z",
+        "resolution": "1DAY",
+        "open": "1656.30000000",
+        "high": "1697.20000000",
+        "low": "1638.00000000",
+        "close": "1677.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3873,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-17T00:00:00Z",
+        "period_end": "2023-03-17T23:59:58.923Z",
+        "resolution": "1DAY",
+        "open": "1677.90000000",
+        "high": "1805.30000000",
+        "low": "1667.20000000",
+        "close": "1794.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3872,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-18T00:00:00Z",
+        "period_end": "2023-03-18T23:59:57.649Z",
+        "resolution": "1DAY",
+        "open": "1794.50000000",
+        "high": "1846.00000000",
+        "low": "1752.40000000",
+        "close": "1763.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3871,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-19T00:00:00Z",
+        "period_end": "2023-03-19T23:59:58.521Z",
+        "resolution": "1DAY",
+        "open": "1763.30000000",
+        "high": "1850.00000000",
+        "low": "1762.60000000",
+        "close": "1785.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3870,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-20T00:00:00Z",
+        "period_end": "2023-03-20T23:59:58.878Z",
+        "resolution": "1DAY",
+        "open": "1786.10000000",
+        "high": "1809.30000000",
+        "low": "1728.00000000",
+        "close": "1738.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3869,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-21T00:00:00Z",
+        "period_end": "2023-03-21T23:59:59.159Z",
+        "resolution": "1DAY",
+        "open": "1738.30000000",
+        "high": "1840.00000000",
+        "low": "1723.20000000",
+        "close": "1807.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3868,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-22T00:00:00Z",
+        "period_end": "2023-03-22T23:59:59.322Z",
+        "resolution": "1DAY",
+        "open": "1807.50000000",
+        "high": "1824.10000000",
+        "low": "1715.20000000",
+        "close": "1739.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3867,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-23T00:00:00Z",
+        "period_end": "2023-03-23T23:59:58.710Z",
+        "resolution": "1DAY",
+        "open": "1738.90000000",
+        "high": "1862.00000000",
+        "low": "1733.20000000",
+        "close": "1817.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3866,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-24T00:00:00Z",
+        "period_end": "2023-03-24T23:59:33.360Z",
+        "resolution": "1DAY",
+        "open": "1816.70000000",
+        "high": "1822.00000000",
+        "low": "1727.30000000",
+        "close": "1751.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3865,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-25T00:00:00Z",
+        "period_end": "2023-03-25T23:59:58.919Z",
+        "resolution": "1DAY",
+        "open": "1751.70000000",
+        "high": "1765.30000000",
+        "low": "1715.30000000",
+        "close": "1743.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3864,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-26T00:00:00Z",
+        "period_end": "2023-03-26T23:59:56.961Z",
+        "resolution": "1DAY",
+        "open": "1743.20000000",
+        "high": "1804.70000000",
+        "low": "1740.60000000",
+        "close": "1775.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3863,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-27T00:00:00Z",
+        "period_end": "2023-03-27T23:59:56.024Z",
+        "resolution": "1DAY",
+        "open": "1775.80000000",
+        "high": "1782.50000000",
+        "low": "1684.80000000",
+        "close": "1715.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3862,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-28T00:00:00Z",
+        "period_end": "2023-03-28T23:59:59.371Z",
+        "resolution": "1DAY",
+        "open": "1716.00000000",
+        "high": "1798.00000000",
+        "low": "1701.60000000",
+        "close": "1773.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3861,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-29T00:00:00Z",
+        "period_end": "2023-03-29T23:59:58.237Z",
+        "resolution": "1DAY",
+        "open": "1773.90000000",
+        "high": "1828.60000000",
+        "low": "1773.10000000",
+        "close": "1793.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3860,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-30T00:00:00Z",
+        "period_end": "2023-03-30T23:59:45.813Z",
+        "resolution": "1DAY",
+        "open": "1793.60000000",
+        "high": "1831.00000000",
+        "low": "1762.00000000",
+        "close": "1793.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3859,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-03-31T00:00:00Z",
+        "period_end": "2023-03-31T23:59:59.290Z",
+        "resolution": "1DAY",
+        "open": "1793.60000000",
+        "high": "1850.80000000",
+        "low": "1778.90000000",
+        "close": "1822.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3858,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-01T00:00:00Z",
+        "period_end": "2023-04-01T23:59:58.670Z",
+        "resolution": "1DAY",
+        "open": "1821.90000000",
+        "high": "1843.50000000",
+        "low": "1807.90000000",
+        "close": "1821.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3857,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-02T00:00:00Z",
+        "period_end": "2023-04-02T23:59:48.137Z",
+        "resolution": "1DAY",
+        "open": "1821.30000000",
+        "high": "1825.80000000",
+        "low": "1773.00000000",
+        "close": "1795.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3856,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-03T00:00:00Z",
+        "period_end": "2023-04-03T23:59:59.820Z",
+        "resolution": "1DAY",
+        "open": "1795.10000000",
+        "high": "1840.90000000",
+        "low": "1763.00000000",
+        "close": "1810.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3855,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-04T00:00:00Z",
+        "period_end": "2023-04-04T23:59:59.337Z",
+        "resolution": "1DAY",
+        "open": "1810.70000000",
+        "high": "1898.60000000",
+        "low": "1802.40000000",
+        "close": "1870.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3854,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-05T00:00:00Z",
+        "period_end": "2023-04-05T23:59:53.135Z",
+        "resolution": "1DAY",
+        "open": "1870.90000000",
+        "high": "1943.70000000",
+        "low": "1864.90000000",
+        "close": "1909.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3853,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-06T00:00:00Z",
+        "period_end": "2023-04-06T23:59:56.627Z",
+        "resolution": "1DAY",
+        "open": "1908.70000000",
+        "high": "1910.10000000",
+        "low": "1854.50000000",
+        "close": "1873.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3852,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-07T00:00:00Z",
+        "period_end": "2023-04-07T23:59:46.830Z",
+        "resolution": "1DAY",
+        "open": "1873.20000000",
+        "high": "1883.40000000",
+        "low": "1842.00000000",
+        "close": "1865.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3851,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-08T00:00:00Z",
+        "period_end": "2023-04-08T23:59:58.463Z",
+        "resolution": "1DAY",
+        "open": "1865.00000000",
+        "high": "1880.90000000",
+        "low": "1846.90000000",
+        "close": "1849.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3850,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-09T00:00:00Z",
+        "period_end": "2023-04-09T23:59:48.352Z",
+        "resolution": "1DAY",
+        "open": "1849.40000000",
+        "high": "1879.00000000",
+        "low": "1824.00000000",
+        "close": "1859.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3849,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-10T00:00:00Z",
+        "period_end": "2023-04-10T23:59:59.580Z",
+        "resolution": "1DAY",
+        "open": "1859.30000000",
+        "high": "1923.30000000",
+        "low": "1847.20000000",
+        "close": "1911.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3848,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-11T00:00:00Z",
+        "period_end": "2023-04-11T23:59:46.166Z",
+        "resolution": "1DAY",
+        "open": "1911.40000000",
+        "high": "1939.80000000",
+        "low": "1883.00000000",
+        "close": "1891.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3847,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-12T00:00:00Z",
+        "period_end": "2023-04-12T23:59:51.441Z",
+        "resolution": "1DAY",
+        "open": "1891.60000000",
+        "high": "1934.50000000",
+        "low": "1854.70000000",
+        "close": "1919.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3846,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-13T00:00:00Z",
+        "period_end": "2023-04-13T23:59:48.731Z",
+        "resolution": "1DAY",
+        "open": "1919.30000000",
+        "high": "2024.70000000",
+        "low": "1901.40000000",
+        "close": "2014.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3845,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-14T00:00:00Z",
+        "period_end": "2023-04-14T23:59:59.698Z",
+        "resolution": "1DAY",
+        "open": "2014.40000000",
+        "high": "2151.90000000",
+        "low": "2011.50000000",
+        "close": "2101.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3844,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-15T00:00:00Z",
+        "period_end": "2023-04-15T23:59:58.037Z",
+        "resolution": "1DAY",
+        "open": "2101.40000000",
+        "high": "2113.20000000",
+        "low": "2073.30000000",
+        "close": "2092.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3843,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-16T00:00:00Z",
+        "period_end": "2023-04-16T23:59:59.370Z",
+        "resolution": "1DAY",
+        "open": "2092.70000000",
+        "high": "2146.80000000",
+        "low": "2072.00000000",
+        "close": "2121.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3842,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-17T00:00:00Z",
+        "period_end": "2023-04-17T23:59:59.197Z",
+        "resolution": "1DAY",
+        "open": "2120.70000000",
+        "high": "2122.60000000",
+        "low": "2058.00000000",
+        "close": "2075.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3841,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-18T00:00:00Z",
+        "period_end": "2023-04-18T23:59:58.296Z",
+        "resolution": "1DAY",
+        "open": "2075.80000000",
+        "high": "2124.80000000",
+        "low": "2051.60000000",
+        "close": "2105.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3840,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-19T00:00:00Z",
+        "period_end": "2023-04-19T23:59:59.735Z",
+        "resolution": "1DAY",
+        "open": "2105.60000000",
+        "high": "2106.50000000",
+        "low": "1921.80000000",
+        "close": "1936.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3839,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-20T00:00:00Z",
+        "period_end": "2023-04-20T23:59:29.595Z",
+        "resolution": "1DAY",
+        "open": "1936.80000000",
+        "high": "1983.80000000",
+        "low": "1915.10000000",
+        "close": "1943.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3838,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-21T00:00:00Z",
+        "period_end": "2023-04-21T23:59:34.610Z",
+        "resolution": "1DAY",
+        "open": "1943.20000000",
+        "high": "1957.60000000",
+        "low": "1788.00000000",
+        "close": "1848.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3837,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-22T00:00:00Z",
+        "period_end": "2023-04-22T23:59:59.427Z",
+        "resolution": "1DAY",
+        "open": "1848.80000000",
+        "high": "1888.10000000",
+        "low": "1843.10000000",
+        "close": "1873.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3836,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-23T00:00:00Z",
+        "period_end": "2023-04-23T23:59:27.609Z",
+        "resolution": "1DAY",
+        "open": "1873.80000000",
+        "high": "1883.20000000",
+        "low": "1836.90000000",
+        "close": "1862.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3835,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-24T00:00:00Z",
+        "period_end": "2023-04-24T23:59:59.608Z",
+        "resolution": "1DAY",
+        "open": "1862.50000000",
+        "high": "1890.00000000",
+        "low": "1807.10000000",
+        "close": "1842.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3834,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-25T00:00:00Z",
+        "period_end": "2023-04-25T23:59:51.007Z",
+        "resolution": "1DAY",
+        "open": "1842.40000000",
+        "high": "1878.70000000",
+        "low": "1800.80000000",
+        "close": "1866.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3833,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-26T00:00:00Z",
+        "period_end": "2023-04-26T23:59:45.579Z",
+        "resolution": "1DAY",
+        "open": "1866.70000000",
+        "high": "1966.50000000",
+        "low": "1783.00000000",
+        "close": "1867.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3832,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-27T00:00:00Z",
+        "period_end": "2023-04-27T23:59:38.513Z",
+        "resolution": "1DAY",
+        "open": "1867.50000000",
+        "high": "1940.80000000",
+        "low": "1861.00000000",
+        "close": "1909.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3831,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-28T00:00:00Z",
+        "period_end": "2023-04-28T23:59:58.273Z",
+        "resolution": "1DAY",
+        "open": "1909.00000000",
+        "high": "1924.80000000",
+        "low": "1875.90000000",
+        "close": "1893.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3830,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-29T00:00:00Z",
+        "period_end": "2023-04-29T23:59:16.295Z",
+        "resolution": "1DAY",
+        "open": "1893.30000000",
+        "high": "1919.90000000",
+        "low": "1883.60000000",
+        "close": "1909.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3829,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-04-30T00:00:00Z",
+        "period_end": "2023-04-30T23:59:59.246Z",
+        "resolution": "1DAY",
+        "open": "1909.10000000",
+        "high": "1940.70000000",
+        "low": "1866.90000000",
+        "close": "1870.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3828,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-01T00:00:00Z",
+        "period_end": "2023-05-01T23:59:47.333Z",
+        "resolution": "1DAY",
+        "open": "1871.40000000",
+        "high": "1887.70000000",
+        "low": "1806.10000000",
+        "close": "1831.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3827,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-02T00:00:00Z",
+        "period_end": "2023-05-02T23:59:48.827Z",
+        "resolution": "1DAY",
+        "open": "1831.20000000",
+        "high": "1883.60000000",
+        "low": "1823.60000000",
+        "close": "1871.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3826,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-03T00:00:00Z",
+        "period_end": "2023-05-03T23:59:59.997Z",
+        "resolution": "1DAY",
+        "open": "1871.10000000",
+        "high": "1917.80000000",
+        "low": "1843.30000000",
+        "close": "1906.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3825,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-04T00:00:00Z",
+        "period_end": "2023-05-04T23:59:24.602Z",
+        "resolution": "1DAY",
+        "open": "1906.00000000",
+        "high": "1921.20000000",
+        "low": "1867.80000000",
+        "close": "1878.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3824,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-05T00:00:00Z",
+        "period_end": "2023-05-05T23:59:59.120Z",
+        "resolution": "1DAY",
+        "open": "1878.40000000",
+        "high": "2010.80000000",
+        "low": "1876.60000000",
+        "close": "1995.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3823,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-06T00:00:00Z",
+        "period_end": "2023-05-06T23:59:54.628Z",
+        "resolution": "1DAY",
+        "open": "1995.60000000",
+        "high": "2023.80000000",
+        "low": "1863.90000000",
+        "close": "1900.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3822,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-07T00:00:00Z",
+        "period_end": "2023-05-07T23:59:59.655Z",
+        "resolution": "1DAY",
+        "open": "1900.40000000",
+        "high": "1938.00000000",
+        "low": "1870.20000000",
+        "close": "1873.00000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3821,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-08T00:00:00Z",
+        "period_end": "2023-05-08T23:59:46.756Z",
+        "resolution": "1DAY",
+        "open": "1872.90000000",
+        "high": "1887.00000000",
+        "low": "1813.10000000",
+        "close": "1849.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3820,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-09T00:00:00Z",
+        "period_end": "2023-05-09T23:59:33.769Z",
+        "resolution": "1DAY",
+        "open": "1849.90000000",
+        "high": "1863.00000000",
+        "low": "1831.80000000",
+        "close": "1847.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3819,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-10T00:00:00Z",
+        "period_end": "2023-05-10T23:59:46.241Z",
+        "resolution": "1DAY",
+        "open": "1847.60000000",
+        "high": "1888.90000000",
+        "low": "1788.50000000",
+        "close": "1842.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3818,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-11T00:00:00Z",
+        "period_end": "2023-05-11T23:59:50.601Z",
+        "resolution": "1DAY",
+        "open": "1842.30000000",
+        "high": "1843.50000000",
+        "low": "1770.00000000",
+        "close": "1795.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3817,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-12T00:00:00Z",
+        "period_end": "2023-05-12T23:59:59.048Z",
+        "resolution": "1DAY",
+        "open": "1795.30000000",
+        "high": "1817.50000000",
+        "low": "1732.00000000",
+        "close": "1808.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3816,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-13T00:00:00Z",
+        "period_end": "2023-05-13T23:59:49.025Z",
+        "resolution": "1DAY",
+        "open": "1808.10000000",
+        "high": "1817.50000000",
+        "low": "1786.50000000",
+        "close": "1795.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3815,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-14T00:00:00Z",
+        "period_end": "2023-05-14T23:59:59.865Z",
+        "resolution": "1DAY",
+        "open": "1795.80000000",
+        "high": "1825.00000000",
+        "low": "1790.90000000",
+        "close": "1799.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3814,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-15T00:00:00Z",
+        "period_end": "2023-05-15T23:59:51.603Z",
+        "resolution": "1DAY",
+        "open": "1799.90000000",
+        "high": "1848.20000000",
+        "low": "1785.50000000",
+        "close": "1816.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3813,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-16T00:00:00Z",
+        "period_end": "2023-05-16T23:59:52.936Z",
+        "resolution": "1DAY",
+        "open": "1816.70000000",
+        "high": "1833.60000000",
+        "low": "1796.20000000",
+        "close": "1824.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3812,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-17T00:00:00Z",
+        "period_end": "2023-05-17T23:59:52.114Z",
+        "resolution": "1DAY",
+        "open": "1824.80000000",
+        "high": "1838.00000000",
+        "low": "1785.00000000",
+        "close": "1822.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3811,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-18T00:00:00Z",
+        "period_end": "2023-05-18T23:59:57.517Z",
+        "resolution": "1DAY",
+        "open": "1822.30000000",
+        "high": "1832.70000000",
+        "low": "1770.50000000",
+        "close": "1800.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3810,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-19T00:00:00Z",
+        "period_end": "2023-05-19T23:59:20.953Z",
+        "resolution": "1DAY",
+        "open": "1800.60000000",
+        "high": "1830.50000000",
+        "low": "1797.50000000",
+        "close": "1812.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3809,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-20T00:00:00Z",
+        "period_end": "2023-05-20T23:59:53.492Z",
+        "resolution": "1DAY",
+        "open": "1812.60000000",
+        "high": "1829.00000000",
+        "low": "1807.20000000",
+        "close": "1819.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3808,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-21T00:00:00Z",
+        "period_end": "2023-05-21T23:59:26.113Z",
+        "resolution": "1DAY",
+        "open": "1820.00000000",
+        "high": "1829.60000000",
+        "low": "1795.00000000",
+        "close": "1805.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3807,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-22T00:00:00Z",
+        "period_end": "2023-05-22T23:59:58.830Z",
+        "resolution": "1DAY",
+        "open": "1805.60000000",
+        "high": "1829.00000000",
+        "low": "1792.20000000",
+        "close": "1817.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3806,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-23T00:00:00Z",
+        "period_end": "2023-05-23T23:59:16.664Z",
+        "resolution": "1DAY",
+        "open": "1817.60000000",
+        "high": "1876.00000000",
+        "low": "1815.40000000",
+        "close": "1854.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3805,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-24T00:00:00Z",
+        "period_end": "2023-05-24T23:59:35.572Z",
+        "resolution": "1DAY",
+        "open": "1854.70000000",
+        "high": "1854.80000000",
+        "low": "1775.50000000",
+        "close": "1799.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3804,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-25T00:00:00Z",
+        "period_end": "2023-05-25T23:59:59.877Z",
+        "resolution": "1DAY",
+        "open": "1800.00000000",
+        "high": "1818.90000000",
+        "low": "1760.00000000",
+        "close": "1805.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3803,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-26T00:00:00Z",
+        "period_end": "2023-05-26T23:59:36.389Z",
+        "resolution": "1DAY",
+        "open": "1805.60000000",
+        "high": "1839.30000000",
+        "low": "1791.80000000",
+        "close": "1828.40000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3802,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-27T00:00:00Z",
+        "period_end": "2023-05-27T23:58:59.276Z",
+        "resolution": "1DAY",
+        "open": "1828.30000000",
+        "high": "1836.90000000",
+        "low": "1813.30000000",
+        "close": "1830.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3801,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-28T00:00:00Z",
+        "period_end": "2023-05-28T23:59:55.272Z",
+        "resolution": "1DAY",
+        "open": "1830.50000000",
+        "high": "1922.00000000",
+        "low": "1823.90000000",
+        "close": "1909.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3800,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-29T00:00:00Z",
+        "period_end": "2023-05-29T23:58:43.518Z",
+        "resolution": "1DAY",
+        "open": "1909.10000000",
+        "high": "1928.50000000",
+        "low": "1875.00000000",
+        "close": "1893.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3799,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-30T00:00:00Z",
+        "period_end": "2023-05-30T23:59:24.881Z",
+        "resolution": "1DAY",
+        "open": "1893.30000000",
+        "high": "1917.70000000",
+        "low": "1882.30000000",
+        "close": "1901.70000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3798,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-05-31T00:00:00Z",
+        "period_end": "2023-05-31T23:59:52.505Z",
+        "resolution": "1DAY",
+        "open": "1901.60000000",
+        "high": "1908.20000000",
+        "low": "1847.70000000",
+        "close": "1873.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3797,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-01T00:00:00Z",
+        "period_end": "2023-06-01T23:59:36.455Z",
+        "resolution": "1DAY",
+        "open": "1873.90000000",
+        "high": "1889.00000000",
+        "low": "1838.50000000",
+        "close": "1862.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3796,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-02T00:00:00Z",
+        "period_end": "2023-06-02T23:59:51.310Z",
+        "resolution": "1DAY",
+        "open": "1862.00000000",
+        "high": "1912.00000000",
+        "low": "1846.80000000",
+        "close": "1907.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3795,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-03T00:00:00Z",
+        "period_end": "2023-06-03T23:59:30.105Z",
+        "resolution": "1DAY",
+        "open": "1907.20000000",
+        "high": "1908.50000000",
+        "low": "1882.00000000",
+        "close": "1892.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3794,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-04T00:00:00Z",
+        "period_end": "2023-06-04T23:59:57.332Z",
+        "resolution": "1DAY",
+        "open": "1892.70000000",
+        "high": "1915.30000000",
+        "low": "1884.70000000",
+        "close": "1890.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3793,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-05T00:00:00Z",
+        "period_end": "2023-06-05T23:59:54.502Z",
+        "resolution": "1DAY",
+        "open": "1890.10000000",
+        "high": "1891.30000000",
+        "low": "1775.00000000",
+        "close": "1810.90000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3792,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-06T00:00:00Z",
+        "period_end": "2023-06-06T23:59:55.815Z",
+        "resolution": "1DAY",
+        "open": "1811.10000000",
+        "high": "1899.40000000",
+        "low": "1795.80000000",
+        "close": "1884.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3791,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-07T00:00:00Z",
+        "period_end": "2023-06-07T23:59:41.567Z",
+        "resolution": "1DAY",
+        "open": "1884.60000000",
+        "high": "1898.00000000",
+        "low": "1821.00000000",
+        "close": "1832.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3790,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-08T00:00:00Z",
+        "period_end": "2023-06-08T23:59:22.542Z",
+        "resolution": "1DAY",
+        "open": "1832.40000000",
+        "high": "1862.10000000",
+        "low": "1829.00000000",
+        "close": "1845.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3789,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-09T00:00:00Z",
+        "period_end": "2023-06-09T23:59:48.346Z",
+        "resolution": "1DAY",
+        "open": "1845.50000000",
+        "high": "1855.50000000",
+        "low": "1825.70000000",
+        "close": "1840.60000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3788,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-10T00:00:00Z",
+        "period_end": "2023-06-10T23:59:59.589Z",
+        "resolution": "1DAY",
+        "open": "1840.50000000",
+        "high": "1845.20000000",
+        "low": "1713.10000000",
+        "close": "1752.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3787,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-11T00:00:00Z",
+        "period_end": "2023-06-11T23:59:42.055Z",
+        "resolution": "1DAY",
+        "open": "1752.40000000",
+        "high": "1778.80000000",
+        "low": "1740.00000000",
+        "close": "1753.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3786,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-12T00:00:00Z",
+        "period_end": "2023-06-12T23:59:41.350Z",
+        "resolution": "1DAY",
+        "open": "1753.20000000",
+        "high": "1760.50000000",
+        "low": "1719.10000000",
+        "close": "1743.10000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3785,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-13T00:00:00Z",
+        "period_end": "2023-06-13T23:59:58.174Z",
+        "resolution": "1DAY",
+        "open": "1742.80000000",
+        "high": "1766.80000000",
+        "low": "1724.40000000",
+        "close": "1740.20000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3784,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-14T00:00:00Z",
+        "period_end": "2023-06-14T23:59:52.426Z",
+        "resolution": "1DAY",
+        "open": "1740.00000000",
+        "high": "1750.30000000",
+        "low": "1630.10000000",
+        "close": "1650.30000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3783,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-15T00:00:00Z",
+        "period_end": "2023-06-15T23:59:58.546Z",
+        "resolution": "1DAY",
+        "open": "1650.40000000",
+        "high": "1679.30000000",
+        "low": "1620.50000000",
+        "close": "1665.50000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3782,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-16T00:00:00Z",
+        "period_end": "2023-06-16T23:59:24.487Z",
+        "resolution": "1DAY",
+        "open": "1665.40000000",
+        "high": "1728.60000000",
+        "low": "1648.90000000",
+        "close": "1716.80000000"
+    }
+},
+{
+    "model": "api.dydxcandle",
+    "pk": 3781,
+    "fields": {
+        "instrument": 2,
+        "period_start": "2023-06-17T00:00:00Z",
+        "period_end": "2023-06-17T23:59:55.911Z",
+        "resolution": "1DAY",
+        "open": "1716.70000000",
+        "high": "1770.00000000",
+        "low": "1713.20000000",
+        "close": "1726.80000000"
+    }
+}
+]

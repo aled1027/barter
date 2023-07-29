@@ -1,17 +1,12 @@
 import structlog
 from drf_yasg.utils import swagger_auto_schema
-from rest_framework.exceptions import (
-    PermissionDenied,
-)
+from rest_framework.exceptions import PermissionDenied
 from rest_framework.generics import ListAPIView
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from accounts.models import User
-from accounts.serializers import (
-    UserSerializer,
-    UserUpdateSerializer,
-)
+from accounts.serializers import UserSerializer
 
 logger = structlog.get_logger(__name__)
 
@@ -26,7 +21,7 @@ class UserAPIView(APIView):
         serialized_user = UserSerializer(user).data
         return Response({"user": serialized_user})
 
-    
+
 class AccountAPIView(ListAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
